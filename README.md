@@ -106,7 +106,5 @@ Notes
 - The included `AudioPlayer` uses `SoundPlayer` and falls back to a short `Console.Beep` if the WAV is not found or fails to play.
 - The repo currently keeps everything in `Program.cs`. If you want I can refactor into separate files and add a CI workflow template.
 
-License
--------
-Include a license file if you plan to publish the repository.
+
 
